@@ -1,0 +1,8 @@
+APP.JS MN KHALI STATE BNAI
+COMPONENT RENDER HOTE HI GETcHARTdata chala usne sari info stae mn daldi
+char component ko wo bhi along with location  & lgndPos bhjdia as a prop
+
+simple chart.js ne unhe use krlia as a prop
+defaultpops wala totally mrzui hai
+height width se size dekhlo
+baqi   maintainAspectRatio:false, se screen ratio affect hoti hai
